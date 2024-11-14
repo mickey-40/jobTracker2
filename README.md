@@ -53,3 +53,4 @@ MVP Goals
 
 Stretch Goals
 -add user auth
+-put more fields on the job page(example: additional things done, contacted who on linkedin, etc.)
