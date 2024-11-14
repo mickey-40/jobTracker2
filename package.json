@@ -1,9 +1,10 @@
 {
   "name": "jobtracker2_backend",
   "version": "1.0.0",
-  "description": "Project Choice (Tell us which project you're doing!) A name for your Project Job Tracker",
+  "description": "This serve as a server for an app that will track job applications",
   "main": "server.js",
   "scripts": {
+    
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
@@ -11,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
   }
 }
